@@ -7,11 +7,7 @@ RobertBykowski/RobertBykowski is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h3 ></path></svg></a>Connect with me:</h3>
-<p dir="auto"><a href="https://codestackr.com#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://codestackr.com#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/globe-dark.svg" alt="website" style="max-width: 100%;"></a>
-  
 
   
-<a href="https://linkedin.com/in/codeSTACKr#gh-light-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-light.svg" alt="website" style="max-width: 100%;"></a>
-<a href="https://linkedin.com/in/codeSTACKr#gh-dark-mode-only" rel="nofollow"><img src="/codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" alt="website" style="max-width: 100%;"></a>
+
   
