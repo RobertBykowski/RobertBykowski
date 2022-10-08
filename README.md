@@ -20,4 +20,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 | `git                     status` | List all *new or modified* files |
 | `git diff` | Show file differences that **haven't been** staged |
 
+
+- George Washington
+- John Adams
+- Thomas Jefferson
+
   
