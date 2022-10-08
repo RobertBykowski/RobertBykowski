@@ -21,7 +21,9 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 | `git diff` | Show file differences that **haven't been** staged |
 
 
-- George Washington
+- George Washington       - George Washington
+- John Adams
+- Thomas Jefferson
 - John Adams
 - Thomas Jefferson
 
